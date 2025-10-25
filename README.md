@@ -8,7 +8,7 @@ This repository contains two beginner-to-intermediate level projects based on Cr
 The first project is a simple Cricket Match Dashboard created with web technologies, and the second is a Cricket Data Analyzer that performs statistical insights using Python libraries.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Project 1 — Cricket Match Dashboard (HTML + CSS)
+📁Project 1 — Cricket Match Dashboard (HTML + CSS)
 
 A simple, responsive webpage displaying match details like team scores, overs, and player highlights.
 
