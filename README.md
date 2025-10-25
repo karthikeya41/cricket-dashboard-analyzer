@@ -6,6 +6,7 @@
 
 This repository contains two beginner-to-intermediate level projects based on Cricket, built using HTML, CSS, and Python.
 The first project is a simple Cricket Match Dashboard created with web technologies, and the second is a Cricket Data Analyzer that performs statistical insights using Python libraries.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📁 Project 1 — Cricket Match Dashboard (HTML + CSS)
 
@@ -33,3 +34,43 @@ style.css — design and layout
 Download or clone the repo
 
 Open index.html in any browser
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🧮 Project 2 — Cricket Data Analyzer (Python)
+
+A simple Python project that reads cricket player statistics from a CSV file and visualizes performance data.
+
+🧠 Skills Used:
+Python, Pandas, Matplotlib, Data Visualization
+
+✨ Features
+
+Reads player data from CSV file
+
+Displays top batsmen by average
+
+Displays top bowlers by wickets
+
+Generates bar charts for runs and wickets
+
+📂 Files
+
+cricket_data_analyzer.py — main script
+
+players_stats.csv — player stats data
+
+⚙️ How to Run
+
+pip install pandas matplotlib
+python cricket_data_analyzer.py
+
+🧑‍💻 Created By
+
+Karthikeyan Iyer
+Beginner Web Developer | Python Enthusiast
+
+📌 Summary
+Project	Type	Technologies	Description
+Cricket Match Dashboard	Frontend	HTML, CSS	Displays live-style cricket dashboard
+Cricket Data Analyzer	Backend / Data	Python, Pandas, Matplotlib	Analyzes cricket player stats and plots charts
