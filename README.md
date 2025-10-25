@@ -67,7 +67,7 @@ python cricket_data_analyzer.py
 
 🧑‍💻 Created By
 
-Karthikeyan Iyer
+Gadari Karthikeya
 Beginner Web Developer | Python Enthusiast
 
 📌 Summary
