@@ -71,6 +71,9 @@ Gadari Karthikeya
 Beginner Web Developer | Python Enthusiast
 
 📌 Summary
-Project	Type	Technologies	Description
+
+Project	Type	                     Technologies            	Description
+
 Cricket Match Dashboard	Frontend	HTML, CSS	Displays live-style cricket dashboard
+
 Cricket Data Analyzer	Backend / Data	Python, Pandas, Matplotlib	Analyzes cricket player stats and plots charts
